@@ -7,7 +7,7 @@
 
 I am very much interested in Microcontrollers (MCUs). I have worked with Microcontroller Boards such as stm32f4-discovery-board, stmf70-nucleo-board, esp32, etc. I keeps working with MCUs related projects as hobby. I have good knowledge of IoT and intermediate knowledge of AI/CI (Computational Intelligence). Main focused field is Autonomous driving and robotics (mobile robots).  
 
-Feel free to contact me, if you are interested in such fields and want to do projects together. I will be more than happy to do such projects as a team.  
+Feel free to contact me, if you are interested in such fields and want to do projects together. I will be more than happy to do such projects together as a team.  
 
 - 👀 I’m interested in Microcontroller, IoT, AI, Robotics and Autonomous Driving.
 - 📫 How to reach me -> jabed.akhtar@outlook.com
