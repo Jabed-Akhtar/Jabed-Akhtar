@@ -4,12 +4,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/jabed-akhtar/)](https://www.linkedin.com/in/jabed-akhtar/)
 
 - 👋 Hi, I’m @Jabed-Akhtar
-- 👀 I’m interested in Robotics, Autonomous Driving and AI.
-- 🌱 I’m currently learning ROS (ROS2) and Machine Learning.
-- 💞️ I’m looking to collaborate on Machine Learning for Automotive Sensors (Radar, LiDAR and Camera).
+- 👀 I’m interested in Microcontroller, IoT, AI, Robotics and Autonomous Driving.
 - 📫 How to reach me -> jabed.akhtar@outlook.com
-
-<!---
-Jabed-Akhtar/Jabed-Akhtar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
