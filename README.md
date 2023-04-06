@@ -1,5 +1,7 @@
 # <samp>Jabed Akhtar</samp>
 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/_jabed_a)](https://www.instagram.com/_jabed_a)
+
 - 👋 Hi, I’m @Jabed-Akhtar
 - 👀 I’m interested in Robotics, Autonomous Driving and AI.
 - 🌱 I’m currently learning ROS (ROS2) and Machine Learning.
