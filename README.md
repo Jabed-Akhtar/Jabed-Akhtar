@@ -5,7 +5,7 @@
 
 👋 Hi, I’m Jabed-Akhtar. I am currently studying Mechatronics and Robotics (M.Sc.) at Frankfurt University of Applied Sciences. I am also working as working student at Continental Autonomous Mobility Germany GmbH.  
 
-I am very much interested in Microcontrollers (MCUs). I have worked with Microcontroller Boards such as stm32f4-discovery-board, stmf70-nucleo-board, esp32, etc. I keeps working with MCUs related projects as hobby. I have good knowledge of IoT and intermediate knowledge of AI/CI (Computational Intelligence). Main focused field is Autonomous driving and robotics (mobile robots).  
+I am very much interested in Microcontrollers (MCUs). I have worked with Microcontroller Boards such as stm32f4-discovery-board, stmf70-nucleo-board, esp32, etc. I keeps working with MCUs related projects as hobby. I have good knowledge of IoT and intermediate knowledge of AI/CI (Computational Intelligence). Main focused field is Autonomous driving <a href="https://www.flaticon.com/free-icons/autonomous-car" title="autonomous car icons">Autonomous car icons created by srip - Flaticon</a> and robotics (mobile robots).  
 
 Feel free to contact me, if you are interested in such fields and want to do projects together. I will be more than happy to do such projects together as a team.  
 
