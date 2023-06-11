@@ -10,4 +10,4 @@ I am very much interested in Microcontrollers (MCUs). I have worked with Microco
 👩‍💻💻 Feel free to contact me, if you are interested in such fields and want to do projects together. I will be more than happy to do such projects together as a team.  
 
 - 👀 I’m interested in Microcontroller, IoT, AI, Robotics and Autonomous Driving.
-- 📫 How to reach me -> jabed.akhtar@outlook.com
+- 📫 How to reach me -> [Discord link](https://discord.gg/9S7ZbHZQGQ)
