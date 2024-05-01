@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/jabed-akhtar/)](https://www.linkedin.com/in/jabed-akhtar/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/_jabed_a)](https://www.instagram.com/_jabed_a)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/x.svg?style=flat-square&logo=x&label=Twitter&logoColor=white&color=071A2C)](https://twitter.com/_jabed_a)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/x.svg?style=flat-square&logo=x&label=Twitter&logoColor=white)](https://twitter.com/_jabed_a)
 
 👋 Hi, I’m Jabed-Akhtar. I am currently studying Mechatronics and Robotics (M.Sc.) at Frankfurt University of Applied Sciences. I am also doing my Master-Thesis at Continental Autonomous Mobility Germany GmbH, Eschborn.  
 
