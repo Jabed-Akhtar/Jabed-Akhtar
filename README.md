@@ -10,4 +10,4 @@ I have worked with Microcontroller Boards such as stm32f4-discovery-board, stmf7
 👩‍💻💻 Feel free to contact me, if you are interested in such fields and want to do projects together. I will be more than happy to do such projects together as a team.  
 
 - 👀 I’m interested in Microcontroller, Autonomous Driving, Robotics, IoT, and AI.
-- 📫 How to reach me -> [Discord link](https://discord.gg/9S7ZbHZQGQ)
+- 📫 How to reach me -> [Message via LinkedIn](https://www.linkedin.com/in/jabed-akhtar/)
